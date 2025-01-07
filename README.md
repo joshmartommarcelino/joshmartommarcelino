@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!# **About Me**
+# **About Me**
 
 **Hi there!** 👋
 
@@ -21,12 +21,12 @@ I'm Josh Martom P. Marcelino, a passionate student in Bath Spa University RAK ca
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a Vending Machine in Python
+- 🌱 I’m currently learning HTML/CSS
+- 👯 I’m looking to collaborate on C Languange Projects
+- 🤔 I’m looking for help with 
+- 💬 Ask me about OBS Streaming
+- 📫 How to reach me: Check my Socials Above ⬆️
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The average person will spend six months of their life waiting at red lights.
 -->
