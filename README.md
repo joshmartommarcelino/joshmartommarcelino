@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Vending Machine in Python
 - 🌱 I’m currently learning HTML/CSS
 - 👯 I’m looking to collaborate on C Languange Projects
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with applying for internships
 - 💬 Ask me about OBS Streaming
 - 📫 How to reach me: Check my Socials Above ⬆️
 - 😄 Pronouns: He/Him
