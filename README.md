@@ -1,4 +1,4 @@
-##👋 Hi, I'm Josh Martom Marcelino
+👋 Hi, I'm Josh Martom Marcelino
 
 🎓 Aspiring AI & Software Developer passionate about data-driven systems, automation, and practical applications of artificial intelligence in real-world scenarios.
 
